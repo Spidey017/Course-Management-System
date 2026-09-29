@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "password": "admin@123",
+      "confirmPassword": "admin@123",
+      "gender": "male",
+      "email": "admin@gmail.com",
+      "id": "101",
+      "role": "admin"
+    },
+    {
+      "username": "Akshay",
+      "password": "akshay@123",
+      "confirmPassword": "akshay@123",
+      "gender": "male",
+      "email": "akshay@gmail.com",
+      "id": "QtfCrznqOpg",
+      "role": "user"
+    },
+    {
+      "username": "Gokul",
+      "password": "gokul@123",
+      "confirmPassword": "gokul@123",
+      "gender": "male",
+      "email": "gokul@gmail.com",
+      "id": "-e9RfiWeLiw",
+      "role": "user"
+    },
+    {
+      "username": "ayan",
+      "password": "123",
+      "confirmPassword": "123",
+      "gender": "male",
+      "email": "ayanattar49@gmail.com",
+      "id": "i7WeWxL20vs",
+      "role": "user"
+    }
+  ],
+  "courses": [
+    {
+      "id": "3RX2vlxu894",
+      "cName": "Springboot BootCamp Class",
+      "cImg": "https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png",
+      "cDuration": "1",
+      "cPrice": "20000",
+      "cTrainer": "Sai Charan Sir",
+      "cDesc": "this is spring family course"
+    },
+    {
+      "id": "KgqSYGt68gA",
+      "cName": "Gen Ai",
+      "cPrice": "4967",
+      "cImg": "https://www.rishabhsoft.com/wp-content/uploads/2026/01/how-to-build-a-gen-ai-solution-1.jpg",
+      "cTrainer": "Vivek Sir ",
+      "cDesc": "Complete Gen Ai Course",
+      "cDuration": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
